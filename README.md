@@ -1,6 +1,8 @@
 # HELMETRIX - Crash Sense Helmet System
 
 HELMETRIX is a student project on a helmet that can sense a possible crash and send an SMS with the rider's GPS location to a saved contact, without needing a phone.
+
+
 <img width="299" height="351" alt="image" src="https://github.com/user-attachments/assets/b9a42766-c059-4de6-b939-b3d72096cc21" />
 
 
