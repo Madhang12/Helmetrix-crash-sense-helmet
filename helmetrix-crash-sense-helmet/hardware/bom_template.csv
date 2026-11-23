@@ -1,0 +1,13 @@
+part,exact_module_or_model,quantity,source_or_supplier,unit_price_and_currency,datasheet_link,notes
+Microcontroller,Arduino Nano (variant: ?),,,,,
+Motion sensor,MPU6050 (board: ?),,,,,
+GPS,Neo-6M (board: ?),,,,,
+GSM,SIM800L (board: ?),,,,,
+Alcohol sensor,MQ-3 (board: ?),,,,,
+Buzzer,,,,,,
+LED,,,,,,
+Push button (SOS),,,,,,
+Battery,,,,,,
+Charger / regulator,,,,,,
+Breadboard / wires,,,,,,
+SIM card (do not record number),,,,,,
