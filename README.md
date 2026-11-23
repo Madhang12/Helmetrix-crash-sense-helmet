@@ -1,6 +1,8 @@
 # HELMETRIX - Crash Sense Helmet System
 
 HELMETRIX is a student project on a helmet that can sense a possible crash and send an SMS with the rider's GPS location to a saved contact, without needing a phone.
+<img width="299" height="351" alt="image" src="https://github.com/user-attachments/assets/b9a42766-c059-4de6-b939-b3d72096cc21" />
+
 
 ## Problem
 
@@ -130,6 +132,8 @@ More in [`docs/FUTURE_WORK.md`](docs/FUTURE_WORK.md).
 The project was presented on 16 April 2026 at the "Arrive Alive" Road Safety Awareness Programme at Woxsen University, Sangareddy. According to the university's write-up, over 500 students, police officials and academic leaders attended, including Shri Mahesh Muralidhar Bhagwat, IPS (Additional DGP, Law & Order, Telangana), Pankaj Paritosh (Superintendent of Police, Sangareddy) and Ms. P. Pravinya, IAS (Collector & District Magistrate, Sangareddy).
 
 It was covered by The Hindu: ["Woxen University students showcase smart safety helmet at road safety drive"](https://lnkd.in/gk8eguRM), The Hindu Bureau, 16 April 2026.
+
+
 
 Event write-up: [Woxsen University news](https://woxsen.edu.in/news/woxsen-hosts-arrive-alive-road-safety-programme/)
 
