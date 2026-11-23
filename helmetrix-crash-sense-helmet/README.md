@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/images/logo.jpg" width="220" alt="HELMETRIX logo"></p>
+
 
 # HELMETRIX — Crash-Sense Helmet System
 
