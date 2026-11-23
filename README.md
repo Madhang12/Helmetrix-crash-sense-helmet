@@ -83,7 +83,7 @@ Not provided yet. Add a verified wiring diagram, pin table, board selection, lib
 
 The included test program is prepared for host-side execution with synthetic inputs, but it has not been successfully run in this environment: the available MinGW compiler failed to start because of a Windows DLL relocation error. No helmet hardware was connected. Run the command above with a working C++11 compiler before reporting test results. Record the compiler and version when publishing results.
 
-No physical sensor tests, GPS tests, SMS delivery tests, battery tests, false-alarm measurements, or missed-detection measurements are reported here. Do not describe this as a tested safety product. Do not perform crash tests with a person wearing the helmet.
+No physical sensor tests, GPS tests, SMS delivery tests, battery tests, false-alarm measurements, or missed-detection measurements are conducted because its a early prototype which is shill in building stage
 
 ## Safe next steps
 
